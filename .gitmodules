@@ -10,3 +10,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
 	branch = 14.0
+[submodule "account-fix-tools"]
+	path = account-fix-tools
+	url = git@github.com:jarsa/account-fix-tools.git
+	branch = 14.0
